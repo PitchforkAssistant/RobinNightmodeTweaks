@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  Tweaks RES night mode to work better with Robin.
 // @author       /u/PitchforkAssistant
-// @match        https://*.reddit.com/robin/*
+// @match        https://*.reddit.com/robin*
 // @grant        none
 // ==/UserScript==
 
